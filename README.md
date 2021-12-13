@@ -1,2 +1,2 @@
-# starbucks
-new starbucks landing page with Christmas Theme made by Ezra Mofu
+starbucks
+new starbucks landing page made by Ezra Mofu
