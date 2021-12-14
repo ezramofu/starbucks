@@ -111,10 +111,25 @@ section a {
   padding: 0 30px 30px;
 }
 
+.footer p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer p span {
+  color: #006241;
+  margin: 3px;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
 .social {
   display: flex;
   align-items: center;
   margin: 20px 0;
+  justify-content: center;
+
 }
 
 .social img {
